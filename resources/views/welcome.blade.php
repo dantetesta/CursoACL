@@ -9,9 +9,10 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
-       
+
         <style>
             html, body {
+                
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
